@@ -1,15 +1,17 @@
 #include "blink.h"
 
 using namespace std;
+
 Blink::Blink(){
 
+    random_scale = 0.3;    
 	step = 0;
 	step_count=0;
 	base_value = BASE_VAL;
 	dacay_time = DECAY_TIME;
 
-
 }
+
 
 void Blink::init(float got_st, float got_ed, int got_step) {
 

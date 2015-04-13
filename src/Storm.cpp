@@ -141,7 +141,7 @@ void Storm::incrementParticleNum(){
 
 void Storm::generateParticle(){
     
-    Interpolation i;
+    Blink i;
     i.init(size_min , PARTICLE_SIZE_MAX, duration_size_change);
 //        i.init(0 , 10, 10);
     i.random_scale = 0.5 + ofRandom(0.5);

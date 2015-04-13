@@ -61,7 +61,7 @@ public:
     int pointX = 0;
     int pointY = 0;
     Interpolation calcSize;
-    
+    Blink blink;
     
     //Model
     Storm storm;

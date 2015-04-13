@@ -23,6 +23,8 @@
 #include "Particle.h"
 #include "ofxVideoRecorder.h"
 #include "interpolation.h"
+#include "blink.h"
+
 
 
 class Storm : public slAppManager {
@@ -64,7 +66,8 @@ public:
     
     // パーティクルクラスをインスタンス化
     vector<Particle> particles;
-    vector<Interpolation> sizes;
+    vector<Blink> sizes;
+    //    vector<Interpolation> sizes;
     // メッシュ
     ofVboMesh mesh;
     // 引力が働いているか
@@ -82,7 +85,7 @@ public:
     //For AudioVisual
     const float size_min = 0.0f;
     const float size_max = 150.0f;
-    const int duration_size_change = 8;
+    const int duration_size_change = 4;
     float size_scale;
     
     

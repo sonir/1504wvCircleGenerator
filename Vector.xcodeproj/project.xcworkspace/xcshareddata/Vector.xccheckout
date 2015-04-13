@@ -10,7 +10,7 @@
 	<string>Vector</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>0EA25F6B559C58AF222E0B3D4BF0C52D3A89D777</key>
+		<key>71F65456E6E86D7F03EB2F877C64928A62070AA7</key>
 		<string>https://github.com/sonir/1504_weaverStorm.git</string>
 		<key>AA005C2C69B0D20EC1E9D7E90A120C805800A3B5</key>
 		<string>https://github.com/sonir/slOscManager.git</string>
@@ -19,7 +19,7 @@
 	<string>Vector.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>0EA25F6B559C58AF222E0B3D4BF0C52D3A89D777</key>
+		<key>71F65456E6E86D7F03EB2F877C64928A62070AA7</key>
 		<string>../..</string>
 		<key>AA005C2C69B0D20EC1E9D7E90A120C805800A3B5</key>
 		<string>../../../addons/slOscManager</string>
@@ -29,14 +29,14 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>0EA25F6B559C58AF222E0B3D4BF0C52D3A89D777</string>
+	<string>71F65456E6E86D7F03EB2F877C64928A62070AA7</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>0EA25F6B559C58AF222E0B3D4BF0C52D3A89D777</string>
+			<string>71F65456E6E86D7F03EB2F877C64928A62070AA7</string>
 			<key>IDESourceControlWCCName</key>
 			<string>circleGenerator</string>
 		</dict>

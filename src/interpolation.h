@@ -1,3 +1,4 @@
+#pragma once
 #include <iostream>
 
 class Interpolation {
@@ -13,7 +14,4 @@ class Interpolation {
 	int step;
 	int step_count;
     
-    //For weaver, circle Generate
-    float random_scale;
-
 };

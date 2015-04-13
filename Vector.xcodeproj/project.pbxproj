@@ -261,13 +261,13 @@
 		E4B69E1C0A3A1BDC003C02F2 /* src */ = {
 			isa = PBXGroup;
 			children = (
+				E4B69E1D0A3A1BDC003C02F2 /* main.cpp */,
+				E4B69E1E0A3A1BDC003C02F2 /* ofApp.cpp */,
+				E4B69E1F0A3A1BDC003C02F2 /* ofApp.h */,
 				F2355BDC1ADACD7C0026FE9A /* interpolation.cpp */,
 				F2355BDD1ADACD7C0026FE9A /* interpolation.h */,
 				F236B0321ADBDAE400BA1E4C /* blink.cpp */,
 				F236B0331ADBDAE400BA1E4C /* blink.h */,
-				E4B69E1D0A3A1BDC003C02F2 /* main.cpp */,
-				E4B69E1E0A3A1BDC003C02F2 /* ofApp.cpp */,
-				E4B69E1F0A3A1BDC003C02F2 /* ofApp.h */,
 				F29024E81AD8F83B0044EDF7 /* Storm.cpp */,
 				F29024E91AD8F83B0044EDF7 /* Storm.h */,
 				18B0291A19CC2B7C00D71AED /* Particle.cpp */,

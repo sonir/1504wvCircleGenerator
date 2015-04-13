@@ -4,7 +4,6 @@
 	Interpolation::Interpolation(){
 
 		step_count = 0;
-        random_scale = 0.3;
 
 	}
 
