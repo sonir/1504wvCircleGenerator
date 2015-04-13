@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F012B735-9FB5-4B5E-9750-871095BB7D6A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Vector</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0EA25F6B559C58AF222E0B3D4BF0C52D3A89D777</key>
+		<string>https://github.com/sonir/1504_weaverStorm.git</string>
+		<key>AA005C2C69B0D20EC1E9D7E90A120C805800A3B5</key>
+		<string>https://github.com/sonir/slOscManager.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Vector.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0EA25F6B559C58AF222E0B3D4BF0C52D3A89D777</key>
+		<string>../..</string>
+		<key>AA005C2C69B0D20EC1E9D7E90A120C805800A3B5</key>
+		<string>../../../addons/slOscManager</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sonir/1504_weaverStorm.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0EA25F6B559C58AF222E0B3D4BF0C52D3A89D777</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0EA25F6B559C58AF222E0B3D4BF0C52D3A89D777</string>
+			<key>IDESourceControlWCCName</key>
+			<string>circleGenerator</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AA005C2C69B0D20EC1E9D7E90A120C805800A3B5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>slOscManager</string>
+		</dict>
+	</array>
+</dict>
+</plist>
